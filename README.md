@@ -22,5 +22,5 @@ You can compile this program using any standard C compiler like GCC.
 
 **Using GCC (Linux/Mac):**
 ```bash
-gcc terrorist_game.c -o terrorist_game
-./terrorist_game
+gcc soldier_rescue__game.c -o soldier_rescue__game
+./soldier_rescue__game
